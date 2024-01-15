@@ -1,6 +1,6 @@
 # CINF 624: Predictive Modeling (3 Credits)
 
-**Semester:** Fall 2023
+**Semester:** Spring 2024
 
 **Day/Time:** Fully Online
 
@@ -10,7 +10,7 @@
 
 **Contact:** (518) 442 – 5258
 
-**Office Hours:** Thursdays 2:00 pm – 4:00 pm (online) or by appointment
+**Office Hours:** Wednesdays 2:00 pm – 4:00 pm (online) or by appointment
 
 
 ## Course Description:
