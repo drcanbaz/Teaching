@@ -79,7 +79,7 @@ listed below and discussed more in detail.
 
 5)  Project Replicability Assessment (10%)
 
-    1.  
+
 
 > **Initial Project Plan –** Students will be required to write a 1-page
 > outline of their project plan; specifically, how they are going to
