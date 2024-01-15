@@ -163,6 +163,9 @@ Your final grade will be based on a scale of 100 points:
 
 **Required Readings:** There is only one book required for this class:
 
+<img src="images/textbook.jpg" style="width:1.5in;height:2.35in"
+alt="An Introduction to Statistical Learning with Applications in R" />
+
 > James, Gareth, Daniela Witten, Trevor Hastie, and Robert Tibshirani.
 > 2013. [***An Introduction to Statistical Learning with Applications in
 > R***](https://hastie.su.domains/ISLR2/ISLRv2_corrected_June_2023.pdf).
