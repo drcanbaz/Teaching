@@ -293,15 +293,15 @@ attention to your Brightspace course outline and announcements.**
 |          | 25-Jan               |                                       | The potential of AI                                           |                      |
 | 3        | 30-Jan               | M2: Data                              | The importance of data in AI                                  |                      |
 |          | 1-Feb                |                                       | Different types of data                                       |                      |
-| 4        | 6-Feb                |                                       | Collecting and preparing data for AI                          | Lecture at ETEC, Lab |
+| 4        | 6-Feb                |                                       | Collecting and preparing data for AI                          | Lecture at ETEC 303, Lab |
 |          | 8-Feb                |                                       | Data ethics and privacy                                       |                      |
 | 5        | 13-Feb               | M3: Machine Learning                  | What is machine learning?                                     |                      |
 |          | 15-Feb               |                                       | Different types of machine learning                           |                      |
-| 6        | 20-Feb               |                                       | Common machine learning algorithms                            | Lecture at ETEC, Lab |
+| 6        | 20-Feb               |                                       | Common machine learning algorithms                            | Lecture at ETEC 303, Lab |
 |          | 22-Feb               |                                       | Evaluating machine learning models                            |                      |
 | 7        | 27-Feb               | M4: Deep Learning                     | What is deep learning?                                        |                      |
 |          | 29-Feb               |                                       | Neural networks                                               |                      |
-| 8        | 5-Mar                |                                       | Convolutional neural networks, Recurrent neural networks      | Lecture at ETEC, Lab |
+| 8        | 5-Mar                |                                       | Convolutional neural networks, Recurrent neural networks      | Lecture at ETEC 303, Lab |
 |          | 7-Mar                |                                       | Training and evaluating deep learning models                  |                      |
 | 9        | 12-Mar               |                                       | Midterm Exam                                                  |                      |
 |          | 14-Mar               | M5: Robotic Process Automation (RPA)  | What is RPA?, The benefits of RPA                             |                      |
@@ -309,11 +309,11 @@ attention to your Brightspace course outline and announcements.**
 |          | 21-Mar               |                                       | Spring Break                                                  |                      |
 | 10       | 26-Mar               |                                       | How to implement RPA, RPA use cases                           |                      |
 |          | 28-Mar               | M6: Physical Robots                   | What are physical robots?, Different types of physical robots |                      |
-| 11       | 2-Apr                |                                       | Programming physical robots, Physical robot applications      | Lecture at ETEC, Lab |
+| 11       | 2-Apr                |                                       | Programming physical robots, Physical robot applications      | Lecture at ETEC 303, Lab |
 |          | 4-Apr                | M7: Natural Language Processing (NLP) | What is NLP?, Common NLP tasks                                |                      |
 | 12       | 9-Apr                |                                       | NLP algorithms                                                |                      |
 |          | 11-Apr               |                                       | NLP use cases                                                 |                      |
-| 13       | 16-Apr               | M8: Implementation of AI              | Developing and deploying AI solutions                         | Lecture at ETEC, Lab |
+| 13       | 16-Apr               | M8: Implementation of AI              | Developing and deploying AI solutions                         | Lecture at ETEC 340, Lab |
 |          | 18-Apr               |                                       | AI project management, AI governance                          |                      |
 | 14       | 23-Apr               | M9: The Future of AI                  | Emerging trends in AI, The ethical implications of AI         |                      |
 |          | 25-Apr               |                                       | The impact of AI on society, Preparing for the future of AI   |                      |
