@@ -2,9 +2,9 @@
 
 **Semester:** Spring 2024
 
-**Day/Time:** Fully Online
+**Day/Time:** Tuesdays 3 pm until 5:50 pm
 
-**Location:** Online
+**Location:** 	Social Science 134 
 
 **Instructor:** M. Abdullah Canbaz, Ph.D. *\[ he/him/his \]*
 
