@@ -214,7 +214,7 @@ throughout the semester. \*
 <tr class="odd">
 <td>1</td>
 <td>23-Jan</td>
-<td>Welcome to Course, Introduction to R</td>
+<td>Welcome to Course, <a href="https://drcanbaz.com/teaching/CINF624/SP24/slides/RforeveryonebyLanderJared.pdf> Introduction to R </a></td>
 <td colspan="2"> </td>
 <td> </td>
 </tr>
