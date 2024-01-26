@@ -4,7 +4,7 @@
 
 **Day/Time:** Tuesdays 3 pm until 5:50 pm
 
-**Location:** 	Social Science 134 
+**Location:** 	ETEC 368 
 
 **Instructor:** M. Abdullah Canbaz, Ph.D. *\[ he/him/his \]*
 
