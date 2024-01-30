@@ -221,9 +221,9 @@ throughout the semester. \*
 <tr class="even">
 <td>2</td>
 <td>30-Jan</td>
-<td>Advanced R Programing  - <a href="https://towardsdatascience.com/four-r-packages-for-automated-exploratory-data-analysis-you-might-have-missed-c38b03d4ee16"> Automated Exploratory Data Analysis</a></td>
+<td>Advanced R Programing  </td>
 <td colspan="2"> </td>
-<td> </td>
+<td><a href="https://towardsdatascience.com/four-r-packages-for-automated-exploratory-data-analysis-you-might-have-missed-c38b03d4ee16"> Automated Exploratory Data Analysis</a></td>
 </tr>
 <tr class="odd">
 <td>3</td>
