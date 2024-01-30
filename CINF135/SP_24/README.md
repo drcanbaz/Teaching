@@ -290,8 +290,8 @@ attention to your Brightspace course outline and announcements.**
 |----------|----------------------|---------------------------------------|---------------------------------------------------------------|----------------------|
 | 1        | 18-Jan               | M1: AI Foundations                    | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L1-Introduction.slides.html" >Introduction, What is AI?</a>                                     |                      |
 | 2        | 23-Jan               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L2_History_and_Types_of_AI.slides.html" >A brief history of AI, Different types of AI </a>                 |                      |
-|          | 25-Jan               |                                       | The potential of AI                                           |                      |
-| 3        | 30-Jan               | M2: Data                              | The importance of data in AI                                  |                      |
+|          | 25-Jan               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L2_History_and_Types_of_AI.slides.html" >The potential of AI </a>                                           |                      |
+| 3        | 30-Jan               | M2: Data                              | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L3-Data.slides.html" >The importance of data in AI </a>                                    |                      |
 |          | 1-Feb                |                                       | Different types of data                                       |                      |
 | 4        | 6-Feb                |                                       | Collecting and preparing data for AI                          | Lecture at ETEC 303, Lab |
 |          | 8-Feb                |                                       | Data ethics and privacy                                       |                      |
