@@ -295,7 +295,7 @@ attention to your Brightspace course outline and announcements.**
 |          | 1-Feb                |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L3-Data.slides.html" >Different types of data  </a>                                      |                      |
 | 4        | 6-Feb                |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L3-Data.slides.html" >Collecting and preparing data for AI </a>                          | Lecture at ETEC 303, Lab |
 |          | 8-Feb                |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L3-Data.slides.html" >Data ethics and privacy  </a>                                      |                      |
-| 5        | 13-Feb               | M3: Machine Learning                  | What is machine learning?                                     |                      |
+| 5        | 13-Feb               | M3: Machine Learning                  | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L4-AIvsML.slides.html" >What is machine learning?</a>                                     |                      |
 |          | 15-Feb               |                                       | Different types of machine learning                           |                      |
 | 6        | 20-Feb               |                                       | Common machine learning algorithms                            | Lecture at ETEC 303, Lab |
 |          | 22-Feb               |                                       | Evaluating machine learning models                            |                      |
