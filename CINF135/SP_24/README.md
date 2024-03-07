@@ -301,7 +301,7 @@ attention to your Brightspace course outline and announcements.**
 |          | 22-Feb               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L4-AIvsML.slides.html" >Evaluating machine learning models</a>                          |                      |
 | 7        | 27-Feb               | M4: Deep Learning                     | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L5-DeepLearning.slides.html" >What is deep learning?</a>                                        |                      |
 |          | 29-Feb               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L5-DeepLearning.slides.html" >Neural networks </a>                                              |                      |
-| 8        | 5-Mar                |                                       | Convolutional neural networks, Recurrent neural networks      | Lecture at ETEC 303, Lab |
+| 8        | 5-Mar                |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L5-DeepLearning.slides.html" >Convolutional neural networks, Recurrent neural networks </a>     | Lecture at ETEC 303, Lab |
 |          | 7-Mar                |                                       | Training and evaluating deep learning models                  |                      |
 | 9        | 12-Mar               |                                       | Midterm Exam                                                  |                      |
 |          | 14-Mar               | M5: Robotic Process Automation (RPA)  | What is RPA?, The benefits of RPA                             |                      |
