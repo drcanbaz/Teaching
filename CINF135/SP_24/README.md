@@ -307,10 +307,10 @@ attention to your Brightspace course outline and announcements.**
 |          | 14-Mar               | M5: Robotic Process Automation (RPA)  | What is RPA?, The benefits of RPA                             |                      |
 |          | 19-Mar               |                                       | Spring Break                                                  |                      |
 |          | 21-Mar               |                                       | Spring Break                                                  |                      |
-| 10       | 26-Mar               |                                       | How to implement RPA, RPA use cases                           |                      |
+| 10       | 26-Mar               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L6-RPAs.slides.html" > How to implement RPA, RPA use cases</a>                           |                      |
 |          | 28-Mar               | M6: Physical Robots                   | What are physical robots?, Different types of physical robots |                      |
-| 11       | 2-Apr                |                                       | Programming physical robots, Physical robot applications      | Lecture at ETEC 303, Lab |
-|          | 4-Apr                | M7: Natural Language Processing (NLP) | What is NLP?, Common NLP tasks                                |                      |
+| 11       | 2-Apr                |                                       | Programming physical robots, Physical robot applications      |                      |
+|          | 4-Apr                | M7: Natural Language Processing (NLP) | What is NLP?, Common NLP tasks                                | Lecture at ETEC 303, Lab |
 | 12       | 9-Apr                |                                       | NLP algorithms                                                |                      |
 |          | 11-Apr               |                                       | NLP use cases                                                 |                      |
 | 13       | 16-Apr               | M8: Implementation of AI              | Developing and deploying AI solutions                         | Lecture at ETEC 340, Lab |
