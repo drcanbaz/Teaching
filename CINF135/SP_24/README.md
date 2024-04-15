@@ -313,9 +313,9 @@ attention to your Brightspace course outline and announcements.**
 |          | 4-Apr                | M7: Natural Language Processing (NLP) | What is NLP?, Common NLP tasks                                | Lecture at ETEC 303, Lab |
 | 12       | 9-Apr                |                                       | NLP algorithms                                                |                      |
 |          | 11-Apr               |                                       | NLP use cases                                                 |                      |
-| 13       | 16-Apr               | M8: Implementation of AI              | Developing and deploying AI solutions                         | Lecture at ETEC 340, Lab |
+| 13       | 16-Apr               | M8: Implementation of AI              | Developing and deploying AI solutions                         |                      |
 |          | 18-Apr               |                                       | AI project management, AI governance                          |                      |
-| 14       | 23-Apr               | M9: The Future of AI                  | Emerging trends in AI, The ethical implications of AI         |                      |
+| 14       | 23-Apr               | M9: The Future of AI                  | Emerging trends in AI, The ethical implications of AI         |      Lecture at ETEC 340, Lab                |
 |          | 25-Apr               |                                       | The impact of AI on society, Preparing for the future of AI   |                      |
 | 15       | 30-Apr               |                                       | Last Day of SP Semester                                       |                      |
 | 16       | Final Exam Day (TBD) |                                       |                                                               |                      |
