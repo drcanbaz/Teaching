@@ -314,7 +314,7 @@ attention to your Brightspace course outline and announcements.**
 | 12       | 9-Apr                |                                       | NLP algorithms                                                |                      |
 |          | 11-Apr               |                                       | NLP use cases                                                 |                      |
 | 13       | 16-Apr               | M8: Implementation of AI              | Developing and deploying AI solutions                         |                      |
-|          | 18-Apr               |                                       | AI project management, AI governance                          |                      |
+|          | 18-Apr               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/AI-ProjectManagement.pptx"> AI project management, AI governance   </a>                       |                      |
 | 14       | 23-Apr               | M9: The Future of AI                  | Emerging trends in AI, The ethical implications of AI         |      Lecture at ETEC 340, Lab                |
 |          | 25-Apr               |                                       | The impact of AI on society, Preparing for the future of AI   |                      |
 | 15       | 30-Apr               |                                       | Last Day of SP Semester                                       |                      |
