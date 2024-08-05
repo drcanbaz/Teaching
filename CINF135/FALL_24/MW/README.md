@@ -312,7 +312,7 @@ attention to your Brightspace course outline and announcements.**
 | 14       | 25-Nov                |                                                             | AI project management, AI governance                         | Lecture at ETEC, Lab    |
 |          | ***27-Nov***         | ***Thanksgiving,  No Class***                              |                                                              |                         |
 | 15       | 2-Dec                 | M9: The Future of AI                                        | Emerging trends in AI, The ethical implications of AI        |                         |
-|          | 3-Dec                 | **Showcase  Day, All Students are expected to participate** |                                                              |                         |
+|          | 3-Dec                 | **Showcase  Day** | **All Students are expected to participate**               |                         |
 |          | 4-Dec                 |                                                             | The impact of AI on society, Preparing for the future of AI  |                         |
 | 16       | 9-Dec                 |                                                             | The impact of AI on society, Preparing for the future of AI  | Last Day of SP Semester |
 |          | Final Exam  Day (TBD) |                                                             |                                                              |                         |

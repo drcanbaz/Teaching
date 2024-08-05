@@ -2,7 +2,7 @@
 
 **Semester:** Fall 2024
 
-**Day/Time:** In person – Tuesdays and Thursdays 10:30 AM - 11:50 PM
+**Day/Time:** In person – Tuesdays and Thursdays 10:30 AM - 11:50 AM
 
 **Location:** Massry School of Business 119
 
@@ -308,7 +308,7 @@ attention to your Brightspace course outline and announcements.**
 |          | 21-Nov                | M9: The Future of AI                                        | Emerging trends in AI, The ethical implications of AI        |                                  |
 | 14       | 26-Nov                |                                                             | The impact of AI on society, Preparing for the future of AI  |                                  |
 |          | ***28-Nov***         | ***Thanksgiving,  No Class***                              |                                                              |                                  |
-| 15       | 3-Dec                 | **Showcase  Day, All Students are expected to participate** |                                                              |                                  |
+| 15       | 3-Dec                 | **Showcase  Day** | **All Students are expected to participate**               |                                  |
 |          | 5-Dec                 |                                                             | The impact of AI on society, Preparing for the future of AI  | Last Day of Fall Semester Classs |
 | 16       | Final Exam  Day (TBD) |                                                             |                                                              |                                  |
 
