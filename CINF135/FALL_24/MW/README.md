@@ -1,16 +1,16 @@
 # CINF 135: Concepts of Artificial Intelligence (3 Credits)
 
-**Semester:** Spring 2024
+**Semester:** Fall 2024
 
-**Day/Time:** In person – Tuesdays and Thursdays 12:00 PM - 1:20 PM
+**Day/Time:** In person – Mondays and Wednesdays 11:40 AM - 1:00 PM
 
-**Location:** Science Library - G 12
+**Location:** Science Library - 205
 
 **Instructor:** M. Abdullah Canbaz, Ph.D. *\[ he/him/his \]*
 
 **Contact:** (518) 442 – 5258
 
-**Office Location and Hours:** Wednesdays 2:00 pm – 4:00 pm (via Zoom)
+**Office Location and Hours:** Tuesdays 12:30 pm – 2:00 pm (via Zoom)
 or by appointment
 
 
@@ -29,69 +29,53 @@ in the design, deployment, and use of AI/ML systems.
 
 ## Expected Student Learning Outcomes:
 
-This is a course in both the technical and societal aspects of
-artificial intelligence and machine learning (AI/ML) systems. It is
-meant for people who do not (yet) have a background in the topic, and
-may have little or no background in computers. This course assumes no
-previous experience with computers, just a willingness to learn, to
-contribute to the class, and to work hard.
+The primary objectives of this course are to help students understand:
 
-The goals of this course are to help students learn:
+-	How modern AI/ML systems function, including their strengths and limitations.
+-	The relevance of AI/ML systems to society, affecting both their design and their impact.
 
-- How modern AI/ML systems work, and their strengths and limitations.
+The course emphasizes active learning, particularly crucial for AI/ML, where current details can quickly become outdated. The focus is on learning how to navigate the technical and social aspects rather than memorizing static information.
 
-- The ways that AI/ML systems are relevant to society, and both how this
-  can affect both their design and their effects.
+Upon successful completion of this course, students will be able to:
 
-The emphasis of the course will be on students actively learning about
-these topics. This is particularly critical for AI/ML, as specific
-details that are relevant today will be obsolete in the very near
-future. It is more important to discover how to learn about the
-technical and social aspects than to have a rote mastery of a static
-list of details.
+1.	Identify and define key components of AI/ML systems. (1.1 B)
+Measure: Students can list and describe the essential parts of AI/ML systems.
+Corresponding Assignment: In Class Team Work - Intro To AI Systems
 
-Upon successful completion of INF 135, you will have gained the ability
-to:
+2.	Research and gather relevant information about AI/ML. (1.2 I)
+Measure: Students can compile and present information from various sources related to AI/ML.
+Corresponding Assignment: A1 - Data Types and Collection Mechanisms in AI
 
-- **Demonstrate** individual competence in understanding various
-  technical aspects of AI/ML:
+3.	Understand and explain different types of AI/ML systems, such as supervised and unsupervised learning. (C1.1 B)
+Measure: Students can differentiate between types of AI/ML systems and provide examples.
+Corresponding Assignment: A2 - Types of Machine Learning and Their Applications
 
-  - The goals of AI/ML
+4.	Recognize the strengths and limitations of AI/ML systems. (1.3 I)
+Measure: Students can analyze and discuss the pros and cons of different AI/ML systems.
+Corresponding Assignment: A3 - Evaluating Deep Learning Models
 
-  - The various types of ML systems (e.g., supervised, unsupervised)
+5.	Understand the importance of data in AI/ML, including data gathering, cleaning, and visualization. (C1.2 I)
+Measure: Students can demonstrate data collection, cleaning, and visualization techniques.
+Corresponding Assignment: Lab 2 - Data Collection and Initial Exploration
 
-  - Their strengths and weaknesses
+6.	Identify and understand legal issues related to computing. (4.1 B)
+Measure: Students can identify potential biases and ethical concerns in AI/ML systems and suggest mitigation strategies.
+Corresponding Assignment: In Class Team Work - AI Ethics and Bias Detectives
 
-  - The importance of data
+7.	Reflect on the societal impact of AI/ML technologies. (4.4 A)
+Measure: Students can write or present reflections on how AI/ML affects society.
+Corresponding Assignment: In-Class Activity - DL Ethical Dilemmas and Case Study Analysis
 
-    - Representativeness
+8.	Effectively communicate technical information through writing and presentations. (3.2 I)
+Measure: Students can produce clear written reports and deliver oral presentations on AI/ML topics.
+Corresponding Assignment: Showcase Participation and Presentation
 
-    - Gathering, cleaning, storing, and using data
+9.	Collaborate effectively in team settings. (5.1 B)
+Measure: Students can participate in group projects, demonstrating teamwork and collaboration skills.
+Corresponding Assignment: Lab 5 - Advanced Applications and Project
 
-    - Visualization
+By achieving these outcomes, students will gain a foundational understanding of AI/ML systems and their implications, preparing them for further study or careers in the field.
 
-- Through writing, presentations, etc., **demonstrate** a knowledge of
-  the following topics related to AI/ML systems:
-
-  - Bias
-
-  - Fairness
-
-  - Explainability
-
-- Be able to **create simple AI/ML systems** to demonstrate mastery of
-  the above topics.
-
-- **Demonstrate** how to find and discern reliable and actionable
-  information on AI/ML.
-
-- **Apply** the above concepts in assignments.
-
-- Be **persistent** in solving medium-complexity problems.
-
-- **Develop** coherent problem-solving skills.
-
-- **Work** effectively in teams.
 
 ## Prerequisites:
 
