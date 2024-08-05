@@ -285,7 +285,7 @@ attention to your Brightspace course outline and announcements.**
 | -------- | --------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ | ----------------------- |
 | 1        | 26-Aug                | M1: AI Foundations                                          | Introduction, What is AI?                                    |                         |
 |          | 28-Aug                |                                                             | A brief history of AI, Different types of AI                 |                         |
-| 2        | *** 2-Sep          | *** Labor Day,  No Class                                  |                                                              |                         |
+| 2        | ***2-Sep***          | ***Labor Day,  No Class***                                  |                                                              |                         |
 |          | 4-Sep                 |                                                             | The potential of AI                                          |                         |
 | 3        | 9-Sep                 | M2: Data                                                    | The importance of data in AI                                 |                         |
 |          | 11-Sep                |                                                             | Different types of data                                      | Lecture at ETEC, Lab    |
@@ -297,7 +297,7 @@ attention to your Brightspace course outline and announcements.**
 |          | 2-Oct                 |                                                             | Evaluating machine learning models                           |                         |
 | 7        | 7-Oct                 | M4: Deep Learning                                           | What is deep learning?                                       |                         |
 |          | 9-Oct                 |                                                             | Neural networks                                              | Lecture at ETEC, Lab    |
-| 8        | ***14-Oct          | ***Fall Break\***                                           |                                                              |                         |
+| 8        | ***14-Oct***          | ***Fall Break***                                           |                                                              |                         |
 |          | 16-Oct                |                                                             | Convolutional neural networks, Recurrent neural networks     |                         |
 | 9        | 21-Oct                |                                                             | Training and evaluating deep learning models                 |                         |
 |          | 23-Oct                | M5: Robotic Process Automation (RPA)                        | What is RPA?, The benefits of RPA                            |                         |
@@ -310,7 +310,7 @@ attention to your Brightspace course outline and announcements.**
 | 13       | 18-Nov                |                                                             | NLP use cases                                                |                         |
 |          | 20-Nov                | M8: Implementation of AI                                    | Developing and deploying AI solutions                        |                         |
 | 14       | 25-Nov                |                                                             | AI project management, AI governance                         | Lecture at ETEC, Lab    |
-|          | ***27-Nov\***         | ***Thanksgiving,  No Class\***                              |                                                              |                         |
+|          | ***27-Nov***         | ***Thanksgiving,  No Class***                              |                                                              |                         |
 | 15       | 2-Dec                 | M9: The Future of AI                                        | Emerging trends in AI, The ethical implications of AI        |                         |
 |          | 3-Dec                 | **Showcase  Day, All Students are expected to participate** |                                                              |                         |
 |          | 4-Dec                 |                                                             | The impact of AI on society, Preparing for the future of AI  |                         |
