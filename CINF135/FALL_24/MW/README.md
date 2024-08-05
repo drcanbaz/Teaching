@@ -10,8 +10,7 @@
 
 **Contact:** (518) 442 – 5258
 
-**Office Location and Hours:** Tuesdays 12:30 pm – 2:00 pm (via Zoom)
-or by appointment
+**Office Location and Hours:** Tuesdays 12:30 pm – 2:00 pm (via Zoom) or by appointment
 
 
 
@@ -48,7 +47,7 @@ Upon successful completion of this course, students will be able to:
   - **Measure:** Students can compile and present information from various sources related to AI/ML.
   - **Corresponding Assignment:** A1 - Data Types and Collection Mechanisms in AI
 
-3.	**Understand and explain** different types of AI/ML systems, such as supervised and unsupervised learning. (C1.1 B)
+3.	**Understand and explain** different types of AI/ML systems, such as supervised and unsupervised learning. **(C1.1 B)**
 
   - **Measure:** Students can differentiate between types of AI/ML systems and provide examples.
   - **Corresponding Assignment:** A2 - Types of Machine Learning and Their Applications
@@ -208,6 +207,45 @@ the module. At the end of every 2 modules, there will be a similar
 individual, online synthesis question. It will gauge your ability to
 reason about questions that span multiple topics.
 
+
+## Grading: 
+
+| **Category**                                | **Assignment Type**                         | **Category Weight in the Course** | **Weight Within Category** | **Weight to the Final Grade** |
+|---------------------------------------------|---------------------------------------------|-----------------------------------|----------------------------|-------------------------------|
+| **Individual Grades**                       |                                             | 40%                               |                            |                               |
+|                                             | iRAT Quizzes                                |                                   | 60%                        | 24%                           |
+|                                             | Individual Assignments                      |                                   | 40%                        | 16%                           |
+| **Team Grades**                             |                                             | 40%                               |                            |                               |
+|                                             | gRAT Quizzes                                |                                   | 50%                        | 20%                           |
+|                                             | Team Exercises                              |                                   | 50%                        | 20%                           |
+| **Class Participation and Peer Evaluation** |                                             | 10%                               |                            |                               |
+|                                             | Peer Evaluation                             |                                   | 60%                        | 6%                            |
+|                                             | Class Participation (Instructor Determined) |                                   | 40%                        | 4%                            |
+| **Showcase Presentation**                   |                                             | 10%                               | 100%                       | 10%                           |
+| **Honors Requirement (Bonus for Others)**   |                                             | 5 %                               |                            |                               |
+|                                             | White Paper Proposal                        |                                   | 25%                        | 1%                            |
+|                                             | White Paper Draft                           |                                   | 25%                        | 1%                            |
+|                                             | White Paper Final Submission                |                                   | 50%                        | 3%                            |
+| **Total**                                   |                                             | 105%                              |                            | 105%                          |
+
+The above formula is the definitive grading scheme. Any “Total,”
+“Weighted Total,” etc. given by Brightspace does not reflect the actual
+grading scheme and should be ignored.
+
+Grades are assigned based upon the percentage of points achieved by the
+student in the course, as weighted per the above table. The overall
+course **will not** be curved, although the professor retains the right
+curve individual assignments if the grade distribution is extreme enough
+to unfairly weight the overall course against the students.
+
+This course is A-E graded and the grades are determined based on graded
+assignments. Your final grade will be based on a scale of 100 points:
+
+| **A**  | **A-** | **B+** | **B** | **B-** | **C+** | **C** | **C-** | **D+** | **D** | **D-** | **E** |
+|--------|--------|--------|-------|--------|--------|-------|--------|--------|-------|--------|-------|
+| 100-94 | 93-89  | 88-85  | 84-82 | 81-79  | 78-76  | 75-73 | 72-70  | 69-67  | 66-64 | 63-60  | 59-0  |
+
+
 ## Honors College/Program Expectation
 
 Students in the Honors College and Honors Program are **required** to
@@ -235,43 +273,6 @@ opportunity, with the chance to earn bonus credits upon completion.**
 |                              | Clarity of presentation        | 20%            |                                 |                                |
 |                              | Proper documentation           | 15%            |                                 |                                |
 |                              | Impact on the field            | 20%            |                                 |                                |
-
-## Grading: 
-
-| **Category**                                | **Assignment Type**                         | **Category Weight in the Course** | **Weight Within Category** | **Weight to the Final Grade** |
-|---------------------------------------------|---------------------------------------------|-----------------------------------|----------------------------|-------------------------------|
-| **Individual Grades**                       |                                             | 40%                               |                            |                               |
-|                                             | iRAT Quizzes                                |                                   | 60%                        | 24%                           |
-|                                             | Individual Assignments                      |                                   | 40%                        | 16%                           |
-| **Team Grades**                             |                                             | 40%                               |                            |                               |
-|                                             | gRAT Quizzes                                |                                   | 50%                        | 20%                           |
-|                                             | Team Exercises                              |                                   | 50%                        | 20%                           |
-| **Class Participation and Peer Evaluation** |                                             | 10%                               |                            |                               |
-|                                             | Peer Evaluation                             |                                   | 60%                        | 6%                            |
-|                                             | Class Participation (Instructor Determined) |                                   | 40%                        | 4%                            |
-| **Showcase Presentation**                   |                                             | 10%                               | 100%                       | 10%                           |
-| **Honors Requirement (Bonus for Others)**   |                                             | 20%                               |                            |                               |
-|                                             | White Paper Proposal                        |                                   | 25%                        | 5%                            |
-|                                             | White Paper Draft                           |                                   | 25%                        | 5%                            |
-|                                             | White Paper Final Submission                |                                   | 50%                        | 10%                           |
-| **Total**                                   |                                             | 120%                              |                            | 120%                          |
-
-The above formula is the definitive grading scheme. Any “Total,”
-“Weighted Total,” etc. given by Brightspace does not reflect the actual
-grading scheme and should be ignored.
-
-Grades are assigned based upon the percentage of points achieved by the
-student in the course, as weighted per the above table. The overall
-course **will not** be curved, although the professor retains the right
-curve individual assignments if the grade distribution is extreme enough
-to unfairly weight the overall course against the students.
-
-This course is A-E graded and the grades are determined based on graded
-assignments. Your final grade will be based on a scale of 100 points:
-
-| **A**  | **A-** | **B+** | **B** | **B-** | **C+** | **C** | **C-** | **D+** | **D** | **D-** | **E** |
-|--------|--------|--------|-------|--------|--------|-------|--------|--------|-------|--------|-------|
-| 100-94 | 93-89  | 88-85  | 84-82 | 81-79  | 78-76  | 75-73 | 72-70  | 69-67  | 66-64 | 63-60  | 59-0  |
 
 ## Course Outline:
 
