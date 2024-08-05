@@ -281,7 +281,7 @@ attention to your Brightspace course outline and announcements.**
 
 <!-- <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L1-Introduction.slides.html" >Introduction, What is AI?</a> -->
 
-|| **Week** | **Date**              | **Module**                                                  | **Topics**                                                   | **Notes**               |
+| **Week** | **Date**              | **Module**                                                  | **Topics**                                                   | **Notes**               |
 | -------- | --------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ | ----------------------- |
 | 1        | 26-Aug                | M1: AI Foundations                                          | Introduction, What is AI?                                    |                         |
 |          | 28-Aug                |                                                             | A brief history of AI, Different types of AI                 |                         |
