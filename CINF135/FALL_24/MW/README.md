@@ -38,42 +38,42 @@ The course emphasizes active learning, particularly crucial for AI/ML, where cur
 
 Upon successful completion of this course, students will be able to:
 
-1.	Identify and define key components of AI/ML systems. (1.1 B)
+1.	**Identify and define** key components of AI/ML systems. **(1.1 B)**
 
-- Measure: Students can list and describe the essential parts of AI/ML systems.
-- Corresponding Assignment: In Class Team Work - Intro To AI Systems
+- **Measure:** Students can list and describe the essential parts of AI/ML systems.
+- **Corresponding Assignment:** In Class Team Work - Intro To AI Systems
 
-2.	Research and gather relevant information about AI/ML. (1.2 I)
-Measure: Students can compile and present information from various sources related to AI/ML.
-Corresponding Assignment: A1 - Data Types and Collection Mechanisms in AI
+2.	**Research and gather** relevant information about AI/ML. **(1.2 I)**
+**Measure:** Students can compile and present information from various sources related to AI/ML.
+**Corresponding Assignment:** A1 - Data Types and Collection Mechanisms in AI
 
-3.	Understand and explain different types of AI/ML systems, such as supervised and unsupervised learning. (C1.1 B)
-Measure: Students can differentiate between types of AI/ML systems and provide examples.
-Corresponding Assignment: A2 - Types of Machine Learning and Their Applications
+3.	**Understand and explain** different types of AI/ML systems, such as supervised and unsupervised learning. (C1.1 B)
+**Measure:** Students can differentiate between types of AI/ML systems and provide examples.
+**Corresponding Assignment:** A2 - Types of Machine Learning and Their Applications
 
-4.	Recognize the strengths and limitations of AI/ML systems. (1.3 I)
-Measure: Students can analyze and discuss the pros and cons of different AI/ML systems.
-Corresponding Assignment: A3 - Evaluating Deep Learning Models
+4.	**Recognize** the strengths and limitations of AI/ML systems. **(1.3 I)**
+**Measure:** Students can analyze and discuss the pros and cons of different AI/ML systems.
+**Corresponding Assignment:** A3 - Evaluating Deep Learning Models
 
-5.	Understand the importance of data in AI/ML, including data gathering, cleaning, and visualization. (C1.2 I)
-Measure: Students can demonstrate data collection, cleaning, and visualization techniques.
-Corresponding Assignment: Lab 2 - Data Collection and Initial Exploration
+5.	**Understand** the importance of data in AI/ML, including data gathering, cleaning, and visualization. **(C1.2 I)**
+**Measure:** Students can demonstrate data collection, cleaning, and visualization techniques.
+**Corresponding Assignment:** Lab 2 - Data Collection and Initial Exploration
 
-6.	Identify and understand legal issues related to computing. (4.1 B)
-Measure: Students can identify potential biases and ethical concerns in AI/ML systems and suggest mitigation strategies.
-Corresponding Assignment: In Class Team Work - AI Ethics and Bias Detectives
+6.	**Identify and understand** legal issues related to computing. **(4.1 B)**
+**Measure:** Students can identify potential biases and ethical concerns in AI/ML systems and suggest mitigation strategies.
+**Corresponding Assignment:** In Class Team Work - AI Ethics and Bias Detectives
 
-7.	Reflect on the societal impact of AI/ML technologies. (4.4 A)
-Measure: Students can write or present reflections on how AI/ML affects society.
-Corresponding Assignment: In-Class Activity - DL Ethical Dilemmas and Case Study Analysis
+7.	**Reflect** on the societal impact of AI/ML technologies. **(4.4 A)**
+**Measure:** Students can write or present reflections on how AI/ML affects society.
+**Corresponding Assignment:** In-Class Activity - DL Ethical Dilemmas and Case Study Analysis
 
-8.	Effectively communicate technical information through writing and presentations. (3.2 I)
-Measure: Students can produce clear written reports and deliver oral presentations on AI/ML topics.
-Corresponding Assignment: Showcase Participation and Presentation
+8.	Effectively **communicate** technical information through writing and presentations. **(3.2 I)**
+**Measure:** Students can produce clear written reports and deliver oral presentations on AI/ML topics.
+**Corresponding Assignment:** Showcase Participation and Presentation
 
-9.	Collaborate effectively in team settings. (5.1 B)
-Measure: Students can participate in group projects, demonstrating teamwork and collaboration skills.
-Corresponding Assignment: Lab 5 - Advanced Applications and Project
+9.	**Collaborate** effectively in team settings. **(5.1 B)**
+**Measure:** Students can participate in group projects, demonstrating teamwork and collaboration skills.
+**Corresponding Assignment:** Lab 5 - Advanced Applications and Project
 
 By achieving these outcomes, students will gain a foundational understanding of AI/ML systems and their implications, preparing them for further study or careers in the field.
 
