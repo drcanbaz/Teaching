@@ -325,8 +325,8 @@ management, homeland security and cybersecurity fields to highlight and
 present interesting projects, research, and concepts they are learning
 within their courses. It also provides students with an opportunity to
 showcase their findings to others and develop highly desired
-presentation and people skills. The CEHC Showcase is in Spring 2024
-semester will be held on ***TBD***. All students in CINF 135 will be
+presentation and people skills. The CEHC Showcase is in Fall 2024
+semester will be held on ***December 3<sup>rd</sup>, 2024***. All students in CINF 135 will be
 presenting at this event and should reserve that time in their schedule.
 If your schedule does not permit you to attend, you will have an
 alternative assignment. ***Note:*** I grade easier for Showcase
@@ -384,8 +384,8 @@ additional information.
 
 - Other extra credit opportunities may be available. Details to follow.
 
-**Withdrawal from the Course:** The drop date for the Spring 2024
-semester is Wednesday, January 30th for undergraduate students. That is
+**Withdrawal from the Course:** The drop date for the Fall 2024
+semester is Monday, September 9th for undergraduate students. That is
 the last date you can drop a course and not receive a 'W'. It is your
 responsibility to take action by this date if you wish to drop the
 course. In particular, grades of "incomplete" will not be awarded to
