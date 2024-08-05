@@ -39,8 +39,9 @@ The course emphasizes active learning, particularly crucial for AI/ML, where cur
 Upon successful completion of this course, students will be able to:
 
 1.	Identify and define key components of AI/ML systems. (1.1 B)
-Measure: Students can list and describe the essential parts of AI/ML systems.
-Corresponding Assignment: In Class Team Work - Intro To AI Systems
+
+- Measure: Students can list and describe the essential parts of AI/ML systems.
+- Corresponding Assignment: In Class Team Work - Intro To AI Systems
 
 2.	Research and gather relevant information about AI/ML. (1.2 I)
 Measure: Students can compile and present information from various sources related to AI/ML.
