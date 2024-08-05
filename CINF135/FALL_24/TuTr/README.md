@@ -1,16 +1,16 @@
 # CINF 135: Concepts of Artificial Intelligence (3 Credits)
 
-**Semester:** Spring 2024
+**Semester:** Fall 2024
 
-**Day/Time:** In person – Tuesdays and Thursdays 12:00 PM - 1:20 PM
+**Day/Time:** In person – Tuesdays and Thursdays 10:30 AM - 11:50 PM
 
-**Location:** Science Library - G 12
+**Location:** Massry School of Business 119
 
 **Instructor:** M. Abdullah Canbaz, Ph.D. *\[ he/him/his \]*
 
 **Contact:** (518) 442 – 5258
 
-**Office Location and Hours:** Wednesdays 2:00 pm – 4:00 pm (via Zoom)
+**Office Location and Hours:** Tuesdays 12:30 pm – 2:00 pm (via Zoom)
 or by appointment
 
 
@@ -29,69 +29,60 @@ in the design, deployment, and use of AI/ML systems.
 
 ## Expected Student Learning Outcomes:
 
-This is a course in both the technical and societal aspects of
-artificial intelligence and machine learning (AI/ML) systems. It is
-meant for people who do not (yet) have a background in the topic, and
-may have little or no background in computers. This course assumes no
-previous experience with computers, just a willingness to learn, to
-contribute to the class, and to work hard.
+The primary objectives of this course are to help students understand:
 
-The goals of this course are to help students learn:
+-	How modern AI/ML systems function, including their strengths and limitations.
+-	The relevance of AI/ML systems to society, affecting both their design and their impact.
 
-- How modern AI/ML systems work, and their strengths and limitations.
+The course emphasizes active learning, particularly crucial for AI/ML, where current details can quickly become outdated. The focus is on learning how to navigate the technical and social aspects rather than memorizing static information.
 
-- The ways that AI/ML systems are relevant to society, and both how this
-  can affect both their design and their effects.
+Upon successful completion of this course, students will be able to:
 
-The emphasis of the course will be on students actively learning about
-these topics. This is particularly critical for AI/ML, as specific
-details that are relevant today will be obsolete in the very near
-future. It is more important to discover how to learn about the
-technical and social aspects than to have a rote mastery of a static
-list of details.
+1.	**Identify and define** key components of AI/ML systems. **(1.1 B)**
 
-Upon successful completion of INF 135, you will have gained the ability
-to:
+  - **Measure:** Students can list and describe the essential parts of AI/ML systems.
+  - **Corresponding Assignment:** In Class Team Work - Intro To AI Systems
 
-- **Demonstrate** individual competence in understanding various
-  technical aspects of AI/ML:
+2.	**Research and gather** relevant information about AI/ML. **(1.2 I)**
 
-  - The goals of AI/ML
+  - **Measure:** Students can compile and present information from various sources related to AI/ML.
+  - **Corresponding Assignment:** A1 - Data Types and Collection Mechanisms in AI
 
-  - The various types of ML systems (e.g., supervised, unsupervised)
+3.	**Understand and explain** different types of AI/ML systems, such as supervised and unsupervised learning. **(C1.1 B)**
 
-  - Their strengths and weaknesses
+  - **Measure:** Students can differentiate between types of AI/ML systems and provide examples.
+  - **Corresponding Assignment:** A2 - Types of Machine Learning and Their Applications
 
-  - The importance of data
+4.	**Recognize** the strengths and limitations of AI/ML systems. **(1.3 I)**
 
-    - Representativeness
+  - **Measure:** Students can analyze and discuss the pros and cons of different AI/ML systems.
+  - **Corresponding Assignment:** A3 - Evaluating Deep Learning Models
 
-    - Gathering, cleaning, storing, and using data
+5.	**Understand** the importance of data in AI/ML, including data gathering, cleaning, and visualization. **(C1.2 I)**
 
-    - Visualization
+  - **Measure:** Students can demonstrate data collection, cleaning, and visualization techniques.
+  - **Corresponding Assignment:** Lab 2 - Data Collection and Initial Exploration
 
-- Through writing, presentations, etc., **demonstrate** a knowledge of
-  the following topics related to AI/ML systems:
+6.	**Identify and understand** legal issues related to computing. **(4.1 B)**
 
-  - Bias
+  - **Measure:** Students can identify potential biases and ethical concerns in AI/ML systems and suggest mitigation strategies.
+  - **Corresponding Assignment:** In Class Team Work - AI Ethics and Bias Detectives
 
-  - Fairness
+7.	**Reflect** on the societal impact of AI/ML technologies. **(4.4 A)**
+  - **Measure:** Students can write or present reflections on how AI/ML affects society.
+  - **Corresponding Assignment:** In-Class Activity - DL Ethical Dilemmas and Case Study Analysis
 
-  - Explainability
+8.	Effectively **communicate** technical information through writing and presentations. **(3.2 I)**
 
-- Be able to **create simple AI/ML systems** to demonstrate mastery of
-  the above topics.
+  - **Measure:** Students can produce clear written reports and deliver oral presentations on AI/ML topics.
+  - **Corresponding Assignment:** Showcase Participation and Presentation
 
-- **Demonstrate** how to find and discern reliable and actionable
-  information on AI/ML.
+9.	**Collaborate** effectively in team settings. **(5.1 B)**
 
-- **Apply** the above concepts in assignments.
+  - **Measure:** Students can participate in group projects, demonstrating teamwork and collaboration skills.
+  - **Corresponding Assignment:** Lab 5 - Advanced Applications and Project
 
-- Be **persistent** in solving medium-complexity problems.
-
-- **Develop** coherent problem-solving skills.
-
-- **Work** effectively in teams.
+By achieving these outcomes, students will gain a foundational understanding of AI/ML systems and their implications, preparing them for further study or careers in the field.
 
 ## Prerequisites:
 
@@ -216,6 +207,43 @@ the module. At the end of every 2 modules, there will be a similar
 individual, online synthesis question. It will gauge your ability to
 reason about questions that span multiple topics.
 
+## Grading: 
+
+| **Category**                                | **Assignment Type**                         | **Category Weight in the Course** | **Weight Within Category** | **Weight to the Final Grade** |
+|---------------------------------------------|---------------------------------------------|-----------------------------------|----------------------------|-------------------------------|
+| **Individual Grades**                       |                                             | 40%                               |                            |                               |
+|                                             | iRAT Quizzes                                |                                   | 60%                        | 24%                           |
+|                                             | Individual Assignments                      |                                   | 40%                        | 16%                           |
+| **Team Grades**                             |                                             | 40%                               |                            |                               |
+|                                             | gRAT Quizzes                                |                                   | 50%                        | 20%                           |
+|                                             | Team Exercises                              |                                   | 50%                        | 20%                           |
+| **Class Participation and Peer Evaluation** |                                             | 10%                               |                            |                               |
+|                                             | Peer Evaluation                             |                                   | 60%                        | 6%                            |
+|                                             | Class Participation (Instructor Determined) |                                   | 40%                        | 4%                            |
+| **Showcase Presentation**                   |                                             | 10%                               | 100%                       | 10%                           |
+| **Honors Requirement (Bonus for Others)**   |                                             | 5 %                               |                            |                               |
+|                                             | White Paper Proposal                        |                                   | 25%                        | 1%                            |
+|                                             | White Paper Draft                           |                                   | 25%                        | 1%                            |
+|                                             | White Paper Final Submission                |                                   | 50%                        | 3%                            |
+| **Total**                                   |                                             | 105%                              |                            | 105%                          |
+
+The above formula is the definitive grading scheme. Any “Total,”
+“Weighted Total,” etc. given by Brightspace does not reflect the actual
+grading scheme and should be ignored.
+
+Grades are assigned based upon the percentage of points achieved by the
+student in the course, as weighted per the above table. The overall
+course **will not** be curved, although the professor retains the right
+curve individual assignments if the grade distribution is extreme enough
+to unfairly weight the overall course against the students.
+
+This course is A-E graded and the grades are determined based on graded
+assignments. Your final grade will be based on a scale of 100 points:
+
+| **A**  | **A-** | **B+** | **B** | **B-** | **C+** | **C** | **C-** | **D+** | **D** | **D-** | **E** |
+|--------|--------|--------|-------|--------|--------|-------|--------|--------|-------|--------|-------|
+| 100-94 | 93-89  | 88-85  | 84-82 | 81-79  | 78-76  | 75-73 | 72-70  | 69-67  | 66-64 | 63-60  | 59-0  |
+
 ## Honors College/Program Expectation
 
 Students in the Honors College and Honors Program are **required** to
@@ -244,81 +272,45 @@ opportunity, with the chance to earn bonus credits upon completion.**
 |                              | Proper documentation           | 15%            |                                 |                                |
 |                              | Impact on the field            | 20%            |                                 |                                |
 
-## Grading: 
-
-| **Category**                                | **Assignment Type**                         | **Category Weight in the Course** | **Weight Within Category** | **Weight to the Final Grade** |
-|---------------------------------------------|---------------------------------------------|-----------------------------------|----------------------------|-------------------------------|
-| **Individual Grades**                       |                                             | 40%                               |                            |                               |
-|                                             | iRAT Quizzes                                |                                   | 60%                        | 24%                           |
-|                                             | Individual Assignments                      |                                   | 40%                        | 16%                           |
-| **Team Grades**                             |                                             | 40%                               |                            |                               |
-|                                             | gRAT Quizzes                                |                                   | 50%                        | 20%                           |
-|                                             | Team Exercises                              |                                   | 50%                        | 20%                           |
-| **Class Participation and Peer Evaluation** |                                             | 10%                               |                            |                               |
-|                                             | Peer Evaluation                             |                                   | 60%                        | 6%                            |
-|                                             | Class Participation (Instructor Determined) |                                   | 40%                        | 4%                            |
-| **Showcase Presentation**                   |                                             | 10%                               | 100%                       | 10%                           |
-| **Honors Requirement (Bonus for Others)**   |                                             | 20%                               |                            |                               |
-|                                             | White Paper Proposal                        |                                   | 25%                        | 5%                            |
-|                                             | White Paper Draft                           |                                   | 25%                        | 5%                            |
-|                                             | White Paper Final Submission                |                                   | 50%                        | 10%                           |
-| **Total**                                   |                                             | 120%                              |                            | 120%                          |
-
-The above formula is the definitive grading scheme. Any “Total,”
-“Weighted Total,” etc. given by Brightspace does not reflect the actual
-grading scheme and should be ignored.
-
-Grades are assigned based upon the percentage of points achieved by the
-student in the course, as weighted per the above table. The overall
-course **will not** be curved, although the professor retains the right
-curve individual assignments if the grade distribution is extreme enough
-to unfairly weight the overall course against the students.
-
-This course is A-E graded and the grades are determined based on graded
-assignments. Your final grade will be based on a scale of 100 points:
-
-| **A**  | **A-** | **B+** | **B** | **B-** | **C+** | **C** | **C-** | **D+** | **D** | **D-** | **E** |
-|--------|--------|--------|-------|--------|--------|-------|--------|--------|-------|--------|-------|
-| 100-94 | 93-89  | 88-85  | 84-82 | 81-79  | 78-76  | 75-73 | 72-70  | 69-67  | 66-64 | 63-60  | 59-0  |
 
 ## Course Outline:
 
 **\*\* This is a tentative schedule and subject to change. Please pay
 attention to your Brightspace course outline and announcements.**
 
-| **Week** | **Date**             | **Module**                            | **Topics**                                                    | **Notes**            |
-|----------|----------------------|---------------------------------------|---------------------------------------------------------------|----------------------|
-| 1        | 18-Jan               | M1: AI Foundations                    | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L1-Introduction.slides.html" >Introduction, What is AI?</a>                                     |                      |
-| 2        | 23-Jan               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L2_History_and_Types_of_AI.slides.html" >A brief history of AI, Different types of AI </a>                 |                      |
-|          | 25-Jan               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L2_History_and_Types_of_AI.slides.html" >The potential of AI </a>                                           |                      |
-| 3        | 30-Jan               | M2: Data                              | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L3-Data.slides.html" >The importance of data in AI </a>                                    |                      |
-|          | 1-Feb                |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L3-Data.slides.html" >Different types of data  </a>                                      |                      |
-| 4        | 6-Feb                |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L3-Data.slides.html" >Collecting and preparing data for AI </a>                          | Lecture at ETEC 303, Lab |
-|          | 8-Feb                |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L3-Data.slides.html" >Data ethics and privacy  </a>                                      |                      |
-| 5        | 13-Feb               | M3: Machine Learning                  | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L4-AIvsML.slides.html" >What is machine learning?</a>                                     |                      |
-|          | 15-Feb               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L4-AIvsML.slides.html" >Different types of machine learning</a>                           |                      |
-| 6        | 20-Feb               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L4-AIvsML.slides.html" >Common machine learning algorithms</a>                            | Lecture at ETEC 303, Lab |
-|          | 22-Feb               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L4-AIvsML.slides.html" >Evaluating machine learning models</a>                          |                      |
-| 7        | 27-Feb               | M4: Deep Learning                     | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L5-DeepLearning.slides.html" >What is deep learning?</a>                                        |                      |
-|          | 29-Feb               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L5-DeepLearning.slides.html" >Neural networks </a>                                              |                      |
-| 8        | 5-Mar                |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L5-DeepLearning.slides.html" >Convolutional neural networks, Recurrent neural networks </a>     | Lecture at ETEC 303, Lab |
-|          | 7-Mar                |                                       | Training and evaluating deep learning models                  |                      |
-| 9        | 12-Mar               |                                       | Midterm Exam                                                  |                      |
-|          | 14-Mar               | M5: Robotic Process Automation (RPA)  | What is RPA?, The benefits of RPA                             |                      |
-|          | 19-Mar               |                                       | Spring Break                                                  |                      |
-|          | 21-Mar               |                                       | Spring Break                                                  |                      |
-| 10       | 26-Mar               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L6-RPAs.slides.html"> How to implement RPA, RPA use cases</a>                           |                      |
-|          | 28-Mar               | M6: Physical Robots                   | What are physical robots?, Different types of physical robots |                      |
-| 11       | 2-Apr                |                                       | Programming physical robots, Physical robot applications      |                      |
-|          | 4-Apr                | M7: Natural Language Processing (NLP) | What is NLP?, Common NLP tasks                                | Lecture at ETEC 303, Lab |
-| 12       | 9-Apr                |                                       | NLP algorithms                                                |                      |
-|          | 11-Apr               |                                       | NLP use cases                                                 |                      |
-| 13       | 16-Apr               | M8: Implementation of AI              | Developing and deploying AI solutions                         |                      |
-|          | 18-Apr               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/AI-ProjectManagement.pptx"> AI project management, AI governance   </a>                       |                      |
-| 14       | 23-Apr               | M9: The Future of AI                  | Emerging trends in AI, The ethical implications of AI         |      Lecture at ETEC 340, Lab                |
-|          | 25-Apr               |                                       | The impact of AI on society, Preparing for the future of AI   |                      |
-| 15       | 30-Apr               |                                       | Last Day of SP Semester                                       |                      |
-| 16       | Final Exam Day (TBD) |                                       |                                                               |                      |
+| **Week** | **Date**              | **Module**                                                  | **Topics**                                                   | **Notes**                        |
+| -------- | --------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ | -------------------------------- |
+| 1        | 27-Aug                | M1: AI Foundations                                          | Introduction, What is AI?                                    |                                  |
+|          | 29-Aug                |                                                             | A brief history of AI, Different types of AI                 |                                  |
+| 2        | 3-Sep                 |                                                             | The potential of AI                                          |                                  |
+|          | 5-Sep                 | M2: Data                                                    | The importance of data in AI                                 |                                  |
+| 3        | 10-Sep                |                                                             | Different types of data                                      | Lecture at ETEC, Lab             |
+|          | 12-Sep                |                                                             | Collecting and preparing data for AI                         |                                  |
+| 4        | 17-Sep                |                                                             | Data ethics and privacy                                      |                                  |
+|          | 19-Sep                | M3: Machine Learning                                        | What is machine learning?                                    |                                  |
+| 5        | 24-Sep                |                                                             | Different types of machine learning                          | Lecture at ETEC, Lab             |
+|          | 26-Sep                |                                                             | Common machine learning algorithms                           |                                  |
+| 6        | 1-Oct                 |                                                             | Evaluating machine learning models                           |                                  |
+|          | 3-Oct                 | M4: Deep Learning                                           | What is deep learning?                                       |                                  |
+| 7        | 8-Oct                 |                                                             | Neural networks                                              | Lecture at ETEC, Lab             |
+|          | 10-Oct                |                                                             | Convolutional neural networks, Recurrent neural networks     |                                  |
+| 8        | ***15-Oct***         | ***Fall Break***                                           |                                                              |                                  |
+|          | 17-Oct                |                                                             | Training and evaluating deep learning models                 |                                  |
+| 9        | 22-Oct                | M5: Robotic Process Automation (RPA)                        | What is RPA?, The benefits of RPA                            |                                  |
+|          | 24-Oct                |                                                             | How to implement RPA, RPA use cases                          |                                  |
+| 10       | 29-Oct                | M6: Physical Robots                                         | What are physical robots?, Different types of physical robots |                                  |
+|          | 31-Oct                |                                                             | Programming physical robots, Physical robot applications     | Lecture at ETEC, Lab             |
+| 11       | 5-Nov                 | M7: Natural Language Processing (NLP)                       | What is NLP?, Common NLP tasks                               |                                  |
+|          | 7-Nov                 |                                                             | NLP algorithms                                               |                                  |
+| 12       | 12-Nov                |                                                             | NLP use cases                                                |                                  |
+|          | 14-Nov                | M8: Implementation of AI                                    | Developing and deploying AI solutions                        |                                  |
+| 13       | 19-Nov                |                                                             | AI project management, AI governance                         | Lecture at ETEC, Lab             |
+|          | 21-Nov                | M9: The Future of AI                                        | Emerging trends in AI, The ethical implications of AI        |                                  |
+| 14       | 26-Nov                |                                                             | The impact of AI on society, Preparing for the future of AI  |                                  |
+|          | ***28-Nov***         | ***Thanksgiving,  No Class***                              |                                                              |                                  |
+| 15       | 3-Dec                 | **Showcase  Day, All Students are expected to participate** |                                                              |                                  |
+|          | 5-Dec                 |                                                             | The impact of AI on society, Preparing for the future of AI  | Last Day of Fall Semester Classs |
+| 16       | Final Exam  Day (TBD) |                                                             |                                                              |                                  |
 
 ## CEHC Showcase
 
@@ -328,8 +320,8 @@ management, homeland security and cybersecurity fields to highlight and
 present interesting projects, research, and concepts they are learning
 within their courses. It also provides students with an opportunity to
 showcase their findings to others and develop highly desired
-presentation and people skills. The CEHC Showcase is in Spring 2024
-semester will be held on ***TBD***. All students in CINF 135 will be
+presentation and people skills. The CEHC Showcase is in Fall 2024
+semester will be held on ***December 3<sup>rd</sup>, 2024***. All students in CINF 135 will be
 presenting at this event and should reserve that time in their schedule.
 If your schedule does not permit you to attend, you will have an
 alternative assignment. ***Note:*** I grade easier for Showcase
