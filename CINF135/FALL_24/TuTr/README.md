@@ -379,8 +379,8 @@ additional information.
 
 - Other extra credit opportunities may be available. Details to follow.
 
-**Withdrawal from the Course:** The drop date for the Spring 2024
-semester is Wednesday, January 30th for undergraduate students. That is
+**Withdrawal from the Course:** The drop date for the Fall 2024
+semester is Monday, September 9th for undergraduate students. That is
 the last date you can drop a course and not receive a 'W'. It is your
 responsibility to take action by this date if you wish to drop the
 course. In particular, grades of "incomplete" will not be awarded to
