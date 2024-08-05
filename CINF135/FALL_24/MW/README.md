@@ -279,39 +279,43 @@ opportunity, with the chance to earn bonus credits upon completion.**
 **\*\* This is a tentative schedule and subject to change. Please pay
 attention to your Brightspace course outline and announcements.**
 
-| **Week** | **Date**             | **Module**                            | **Topics**                                                    | **Notes**            |
-|----------|----------------------|---------------------------------------|---------------------------------------------------------------|----------------------|
-| 1        | 18-Jan               | M1: AI Foundations                    | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L1-Introduction.slides.html" >Introduction, What is AI?</a>                                     |                      |
-| 2        | 23-Jan               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L2_History_and_Types_of_AI.slides.html" >A brief history of AI, Different types of AI </a>                 |                      |
-|          | 25-Jan               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L2_History_and_Types_of_AI.slides.html" >The potential of AI </a>                                           |                      |
-| 3        | 30-Jan               | M2: Data                              | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L3-Data.slides.html" >The importance of data in AI </a>                                    |                      |
-|          | 1-Feb                |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L3-Data.slides.html" >Different types of data  </a>                                      |                      |
-| 4        | 6-Feb                |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L3-Data.slides.html" >Collecting and preparing data for AI </a>                          | Lecture at ETEC 303, Lab |
-|          | 8-Feb                |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L3-Data.slides.html" >Data ethics and privacy  </a>                                      |                      |
-| 5        | 13-Feb               | M3: Machine Learning                  | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L4-AIvsML.slides.html" >What is machine learning?</a>                                     |                      |
-|          | 15-Feb               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L4-AIvsML.slides.html" >Different types of machine learning</a>                           |                      |
-| 6        | 20-Feb               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L4-AIvsML.slides.html" >Common machine learning algorithms</a>                            | Lecture at ETEC 303, Lab |
-|          | 22-Feb               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L4-AIvsML.slides.html" >Evaluating machine learning models</a>                          |                      |
-| 7        | 27-Feb               | M4: Deep Learning                     | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L5-DeepLearning.slides.html" >What is deep learning?</a>                                        |                      |
-|          | 29-Feb               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L5-DeepLearning.slides.html" >Neural networks </a>                                              |                      |
-| 8        | 5-Mar                |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L5-DeepLearning.slides.html" >Convolutional neural networks, Recurrent neural networks </a>     | Lecture at ETEC 303, Lab |
-|          | 7-Mar                |                                       | Training and evaluating deep learning models                  |                      |
-| 9        | 12-Mar               |                                       | Midterm Exam                                                  |                      |
-|          | 14-Mar               | M5: Robotic Process Automation (RPA)  | What is RPA?, The benefits of RPA                             |                      |
-|          | 19-Mar               |                                       | Spring Break                                                  |                      |
-|          | 21-Mar               |                                       | Spring Break                                                  |                      |
-| 10       | 26-Mar               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L6-RPAs.slides.html"> How to implement RPA, RPA use cases</a>                           |                      |
-|          | 28-Mar               | M6: Physical Robots                   | What are physical robots?, Different types of physical robots |                      |
-| 11       | 2-Apr                |                                       | Programming physical robots, Physical robot applications      |                      |
-|          | 4-Apr                | M7: Natural Language Processing (NLP) | What is NLP?, Common NLP tasks                                | Lecture at ETEC 303, Lab |
-| 12       | 9-Apr                |                                       | NLP algorithms                                                |                      |
-|          | 11-Apr               |                                       | NLP use cases                                                 |                      |
-| 13       | 16-Apr               | M8: Implementation of AI              | Developing and deploying AI solutions                         |                      |
-|          | 18-Apr               |                                       | <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/AI-ProjectManagement.pptx"> AI project management, AI governance   </a>                       |                      |
-| 14       | 23-Apr               | M9: The Future of AI                  | Emerging trends in AI, The ethical implications of AI         |      Lecture at ETEC 340, Lab                |
-|          | 25-Apr               |                                       | The impact of AI on society, Preparing for the future of AI   |                      |
-| 15       | 30-Apr               |                                       | Last Day of SP Semester                                       |                      |
-| 16       | Final Exam Day (TBD) |                                       |                                                               |                      |
+<!-- <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L1-Introduction.slides.html" >Introduction, What is AI?</a> -->
+
+|| **Week** | **Date**              | **Module**                                                  | **Topics**                                                   | **Notes**               |
+| -------- | --------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ | ----------------------- |
+| 1        | 26-Aug                | M1: AI Foundations                                          | Introduction, What is AI?                                    |                         |
+|          | 28-Aug                |                                                             | A brief history of AI, Different types of AI                 |                         |
+| 2        | ***2-Sep\***          | ***Labor Day,  No Class\***                                                                                                                        |
+|          | 4-Sep                 |                                                             | The potential of AI                                          |                         |
+| 3        | 9-Sep                 | M2: Data                                                    | The importance of data in AI                                 |                         |
+|          | 11-Sep                |                                                             | Different types of data                                      | Lecture at ETEC, Lab    |
+| 4        | 16-Sep                |                                                             | Collecting and preparing data for AI                         |                         |
+|          | 18-Sep                |                                                             | Data ethics and privacy                                      |                         |
+| 5        | 23-Sep                | M3: Machine Learning                                        | What is machine learning?                                    |                         |
+|          | 25-Sep                |                                                             | Different types of machine learning                          | Lecture at ETEC, Lab    |
+| 6        | 30-Sep                |                                                             | Common machine learning algorithms                           |                         |
+|          | 2-Oct                 |                                                             | Evaluating machine learning models                           |                         |
+| 7        | 7-Oct                 | M4: Deep Learning                                           | What is deep learning?                                       |                         |
+|          | 9-Oct                 |                                                             | Neural networks                                              | Lecture at ETEC, Lab    |
+| 8        | ***14-Oct\***         | ***Fall Break\***                                           |                                                              |                         |
+|          | 16-Oct                |                                                             | Convolutional neural networks, Recurrent neural networks     |                         |
+| 9        | 21-Oct                |                                                             | Training and evaluating deep learning models                 |                         |
+|          | 23-Oct                | M5: Robotic Process Automation (RPA)                        | What is RPA?, The benefits of RPA                            |                         |
+| 10       | 28-Oct                |                                                             | What is RPA?, The benefits of RPA                            |                         |
+|          | 30-Oct                |                                                             | How to implement RPA, RPA use cases                          |                         |
+| 11       | 4-Nov                 | M6: Physical Robots                                         | What are physical robots?, Different types of physical robots |                         |
+|          | 6-Nov                 |                                                             | Programming physical robots, Physical robot applications     | Lecture at ETEC, Lab    |
+| 12       | 11-Nov                | M7: Natural Language Processing (NLP)                       | What is NLP?, Common NLP tasks                               |                         |
+|          | 13-Nov                |                                                             | NLP algorithms                                               |                         |
+| 13       | 18-Nov                |                                                             | NLP use cases                                                |                         |
+|          | 20-Nov                | M8: Implementation of AI                                    | Developing and deploying AI solutions                        |                         |
+| 14       | 25-Nov                |                                                             | AI project management, AI governance                         | Lecture at ETEC, Lab    |
+|          | ***27-Nov\***         | ***Thanksgiving,  No Class\***                              |                                                              |                         |
+| 15       | 2-Dec                 | M9: The Future of AI                                        | Emerging trends in AI, The ethical implications of AI        |                         |
+|          | 3-Dec                 | **Showcase  Day, All Students are expected to participate** |                                                              |                         |
+|          | 4-Dec                 |                                                             | The impact of AI on society, Preparing for the future of AI  |                         |
+| 16       | 9-Dec                 |                                                             | The impact of AI on society, Preparing for the future of AI  | Last Day of SP Semester |
+|          | Final Exam  Day (TBD) |                                                             |                                                              |                         |
 
 ## CEHC Showcase
 
