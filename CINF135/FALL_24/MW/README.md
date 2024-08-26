@@ -283,7 +283,7 @@ attention to your Brightspace course outline and announcements.**
 
 | **Week** | **Date**              | **Module**                                                  | **Topics**                                                   | **Notes**               |
 | -------- | --------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ | ----------------------- |
-| 1        | 26-Aug                | M1: AI Foundations                                          | Introduction, What is AI?                                    |                         |
+| 1        | 26-Aug                | <a href="https://drcanbaz.com/teaching/CINF135/Fall24/slides/L1-Introduction.slides.html" >M1: AI Foundations</a>                                          | Introduction, What is AI?                                    |                         |
 |          | 28-Aug                |                                                             | A brief history of AI, Different types of AI                 |                         |
 | 2        | ***2-Sep***          | ***Labor Day,  No Class***                                  |                                                              |                         |
 |          | 4-Sep                 |                                                             | The potential of AI                                          |                         |
