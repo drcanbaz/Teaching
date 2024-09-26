@@ -4,7 +4,7 @@
 
 **Day/Time:** In person – Mondays and Wednesdays 11:40 AM - 1:00 PM
 
-**Location:** Science Library - 205
+**Location:** ETEC 190
 
 **Instructor:** M. Abdullah Canbaz, Ph.D. *\[ he/him/his \]*
 
