@@ -4,7 +4,7 @@
 
 **Day/Time:** In person – Tuesdays and Thursdays 10:30 AM - 11:50 AM
 
-**Location:** Massry School of Business 119
+**Location:** ETEC 190
 
 **Instructor:** M. Abdullah Canbaz, Ph.D. *\[ he/him/his \]*
 
