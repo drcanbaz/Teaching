@@ -300,20 +300,20 @@ attention to your Brightspace course outline and announcements.**
 | 8        | ***14-Oct***          | ***Fall Break***                                           |                                                              |                         |
 |          | 16-Oct                |                                                             | <a href="https://drcanbaz.com/teaching/CINF135/Fall24/slides/L5-DeepLearning.slides.html" >Convolutional neural networks, Recurrent neural networks </a>     |                         |
 | 9        | 21-Oct                |                                                             | <a href="https://drcanbaz.com/teaching/CINF135/Fall24/slides/L5-DeepLearning.slides.html" >Training and evaluating deep learning models  </a>                 |                         |
-|          | 23-Oct                | M5: Robotic Process Automation (RPA)                        | What is RPA?, The benefits of RPA                            |                         |
-| 10       | 28-Oct                |                                                             | What is RPA?, The benefits of RPA                            |                         |
-|          | 30-Oct                |                                                             | How to implement RPA, RPA use cases                          |                         |
+|          | 23-Oct                | M5: Robotic Process Automation (RPA)                        | <a href="https://drcanbaz.com/teaching/CINF135/Fall24/slides/L5-DeepLearning.slides.html" >Training and evaluating deep learning models  </a>                            |                         |
+| 10       | 28-Oct                |                                                             | <a href="https://drcanbaz.com/teaching/CINF135/Fall24/slides/L5-DeepLearning.slides.html" >Training and evaluating deep learning models  </a>                            |                         |
+|          | 30-Oct                |                                                             | <a href="https://drcanbaz.com/teaching/CINF135/Fall24/slides/L6-RPAs.slides.html" >What is RPA?, The benefits of RPA; How to implement RPA, RPA use cases </a>                          |                         |
 | 11       | 4-Nov                 | M6: Physical Robots                                         | What are physical robots?, Different types of physical robots |                         |
-|          | 6-Nov                 |                                                             | Programming physical robots, Physical robot applications     | Lecture at ETEC, Lab    |
+|          | 6-Nov                 |                                                             | Programming physical robots, Physical robot applications     |                         |
 | 12       | 11-Nov                | M7: Natural Language Processing (NLP)                       | What is NLP?, Common NLP tasks                               |                         |
-|          | 13-Nov                |                                                             | NLP algorithms                                               |                         |
+|          | 13-Nov                |                                                             | NLP algorithms                                               |  Lab   |
 | 13       | 18-Nov                |                                                             | NLP use cases                                                |                         |
 |          | 20-Nov                | M8: Implementation of AI                                    | Developing and deploying AI solutions                        |                         |
-| 14       | 25-Nov                |                                                             | AI project management, AI governance                         | Lecture at ETEC, Lab    |
+| 14       | 25-Nov                |                                                             | AI project management, AI governance                         |                         |
 |          | ***27-Nov***         | ***Thanksgiving,  No Class***                              |                                                              |                         |
 | 15       | 2-Dec                 | M9: The Future of AI                                        | Emerging trends in AI, The ethical implications of AI        |                         |
 |          | 3-Dec                 | **Showcase  Day** | **All Students are expected to participate**               |                         |
-|          | 4-Dec                 |                                                             | The impact of AI on society, Preparing for the future of AI  |                         |
+|          | 4-Dec                 |                                                             | The impact of AI on society, Preparing for the future of AI  | Lab    |
 | 16       | 9-Dec                 |                                                             | The impact of AI on society, Preparing for the future of AI  | Last Day of SP Semester |
 |          | Final Exam  Day (TBD) |                                                             |                                                              |                         |
 
