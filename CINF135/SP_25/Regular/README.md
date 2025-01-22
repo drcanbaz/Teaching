@@ -268,12 +268,11 @@ opportunity, with the chance to earn bonus credits upon completion.**
 
 **Important: This tentative schedule is subject to change. Please pay attention to your Brightspace course outline and announcements.** 
 
-
-<!-- <a href="https://drcanbaz.com/teaching/CINF135/SP24/slides/L1-Introduction.slides.html" >Introduction, What is AI?</a> -->
+<!-- <a href="https://drcanbaz.com/teaching/CINF135/SP25/Regular/Slides/L1-Introduction.slides.html" >Introduction, What is AI?</a> -->
 
 |     Week    |     Date      |     Module                                                      |     Topics                                                           |     Notes                      |
 |-------------|---------------|-----------------------------------------------------------------|----------------------------------------------------------------------|--------------------------------|
-|     1       |     22-Jan    |     M1: AI Foundations                                          |     Introduction to Concepts of AI, What is AI?                      |                                |
+|     1       |     22-Jan    |     M1: AI Foundations                                          |     <a href="https://drcanbaz.com/teaching/CINF135/SP25/Regular/Slides/L1-Introduction.slides.html" >Introduction to Concepts of AI, What is AI? </a>                     |                                |
 |     2       |     27-Jan    |                                                                 |     A brief history of AI, Different types of AI                     |                                |
 |             |     29-Jan    |                                                                 |     The potential of AI                                              |                                |
 |     3       |     3-Feb     |                                                                 |     The potential of AI                                              |      Lab 1                     |
