@@ -4,7 +4,7 @@
 
 **Day/Time:** In person – Mondays and Wednesdays 11:40 AM - 1:00 PM
 
-**Location:** ETEC B010
+**Location:** ETEC 182
 
 **Instructor:** M. Abdullah Canbaz, Ph.D. *\[ he/him/his \]*
 
