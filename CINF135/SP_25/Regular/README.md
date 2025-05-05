@@ -301,8 +301,8 @@ opportunity, with the chance to earn bonus credits upon completion.**
 |             |     23-Apr    |                                                                 |     AI project management                                            |                                |
 |     15      |     28-Apr    |                                                                 |     <a href="https://drcanbaz.com/teaching/CINF135/SP25/Regular/Slides/AI-ProjectManagement.pptx" >AI governance  </a>                                                  |      Lab 5                     |
 |             | ***30-Apr***  |  ***Showcase   Day, All students are required to participate***                                                                                                         |
-|     16      |     5-May     |     M9: The Future of AI                                        |     Emerging trends in AI, The ethical implications of AI            |      A4 Due                    |
-|             |     7-May     |                                                                 |     The impact of AI on society, Preparing for the future of AI      |     Last Day of SP Semester    |
+|     16      |     5-May     |     M9: The Future of AI                                        |     <a href="https://drcanbaz.com/teaching/CINF135/SP25/Regular/Slides/L10-Future.slides.html" > Emerging trends in AI, The ethical implications of AI </a>           |      A4 Due                    |
+|             |     7-May     |                                                                 |     <a href="https://drcanbaz.com/teaching/CINF135/SP25/Regular/Slides/L10-Future.slides.html" > The impact of AI on society, Preparing for the future of AI </a>       |     Last Day of SP Semester    |
 
 ## CEHC Showcase
 
