@@ -182,265 +182,39 @@ assignments. Your final grade will be based on a scale of 100 points:
 
 <!-- <a href="https://drcanbaz.com/teaching/CINF135/SP25/Regular/Slides/L1-Introduction.slides.html" >Introduction, What is AI?</a> -->
 
-<table>
-<colgroup>
-<col style="width: 7%" />
-<col style="width: 9%" />
-<col style="width: 17%" />
-<col style="width: 22%" />
-<col style="width: 22%" />
-<col style="width: 21%" />
-</colgroup>
-<thead>
-<tr>
-<th style="text-align: center;"><strong>Week</strong></th>
-<th style="text-align: center;"><strong>Date</strong></th>
-<th style="text-align: center;"><strong>Module</strong></th>
-<th style="text-align: center;"><strong>Google AI Essentials
-Certificate</strong></th>
-<th style="text-align: center;"><strong>Topics</strong></th>
-<th style="text-align: center;"><strong>Notes</strong></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align: center;">1</td>
-<td style="text-align: center;">26-Aug</td>
-<td>M1: AI Foundations</td>
-<td> </td>
-<td>Introduction, What is AI?</td>
-<td> </td>
-</tr>
-<tr>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;">28-Aug</td>
-<td> </td>
-<td> </td>
-<td>A brief history of AI, Different types of AI</td>
-<td> </td>
-</tr>
-<tr>
-<td style="text-align: center;">2</td>
-<td style="text-align: center;">2-Sep</td>
-<td><em><strong> </strong></em></td>
-<td> </td>
-<td>The potential of AI</td>
-<td> </td>
-</tr>
-<tr>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;">4-Sep</td>
-<td> </td>
-<td> </td>
-<td>The potential of AI</td>
-<td> </td>
-</tr>
-<tr>
-<td style="text-align: center;">3</td>
-<td style="text-align: center;">9-Sep</td>
-<td>M2: Data</td>
-<td> </td>
-<td>The importance of data in AI</td>
-<td> </td>
-</tr>
-<tr>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;">11-Sep</td>
-<td> </td>
-<td> </td>
-<td>Different types of data</td>
-<td>Quiz 1</td>
-</tr>
-<tr>
-<td style="text-align: center;">4</td>
-<td style="text-align: center;">16-Sep</td>
-<td> </td>
-<td> </td>
-<td>Collecting and preparing data for AI</td>
-<td> </td>
-</tr>
-<tr>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;">18-Sep</td>
-<td> </td>
-<td> </td>
-<td>Data ethics and privacy</td>
-<td>Showcase Milestone 1: Showcase Project Selection (20 Minutes)</td>
-</tr>
-<tr>
-<td style="text-align: center;">5</td>
-<td style="text-align: center;">23-Sep</td>
-<td>M3: Machine Learning</td>
-<td>Module 1: Introduction to AI</td>
-<td>What is machine learning?</td>
-<td> </td>
-</tr>
-<tr>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;">25-Sep</td>
-<td> </td>
-<td>Module 1: Introduction to AI</td>
-<td>Different types of machine learning</td>
-<td>Quiz 2</td>
-</tr>
-<tr>
-<td style="text-align: center;">6</td>
-<td style="text-align: center;">30-Sep</td>
-<td> </td>
-<td> </td>
-<td>Common machine learning algorithms</td>
-<td> </td>
-</tr>
-<tr>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;">2-Oct</td>
-<td> </td>
-<td> </td>
-<td>Evaluating machine learning models</td>
-<td> </td>
-</tr>
-<tr>
-<td style="text-align: center;">7</td>
-<td style="text-align: center;">7-Oct</td>
-<td>M4: Deep Learning</td>
-<td> </td>
-<td>What is deep learning?</td>
-<td> </td>
-</tr>
-<tr>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;">9-Oct</td>
-<td> </td>
-<td> </td>
-<td>Neural networks</td>
-<td>Showcase Milestone 2: Showcase Poster Preparation (20 Minutes)</td>
-</tr>
-<tr>
-<td style="text-align: center;">8</td>
-<td style="text-align: center;">14-Oct</td>
-<td colspan="4" style="text-align: center;"><strong>Fall Break, No
-Class</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;">16-Oct</td>
-<td> </td>
-<td> </td>
-<td>Convolutional neural networks, Recurrent neural networks</td>
-<td>Quiz 3</td>
-</tr>
-<tr>
-<td style="text-align: center;">9</td>
-<td style="text-align: center;">21-Oct</td>
-<td> </td>
-<td> </td>
-<td>Training and evaluating deep learning models</td>
-<td> </td>
-</tr>
-<tr>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;">23-Oct</td>
-<td>M5: Robotic Process Automation (RPA)</td>
-<td>Module 2: Maximize Productivity With AI Tools</td>
-<td>What is RPA?, The benefits of RPA</td>
-<td>Showcase Milestone 3: Upload your poster to Shared Drive</td>
-</tr>
-<tr>
-<td style="text-align: center;">10</td>
-<td style="text-align: center;">28-Oct</td>
-<td> </td>
-<td>Module 2: Maximize Productivity With AI Tools</td>
-<td>How to implement RPA, RPA use cases</td>
-<td>Showcase Milestone 4: Showcase Poster Checkpoint (20 Minutes)<br />
-Quiz 4</td>
-</tr>
-<tr>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;">30-Oct</td>
-<td>M6: Physical Robots</td>
-<td> </td>
-<td>What are physical robots?, Different types of physical robots</td>
-<td> </td>
-</tr>
-<tr>
-<td style="text-align: center;">11</td>
-<td style="text-align: center;">4-Nov</td>
-<td> </td>
-<td> </td>
-<td>Programming physical robots, Physical robot applications</td>
-<td>Quiz 5</td>
-</tr>
-<tr>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;">6-Nov</td>
-<td>M7: Natural Language Processing (NLP)</td>
-<td>Module 3: Discover the Art of Prompting</td>
-<td>What is NLP?, Common NLP tasks</td>
-<td> </td>
-</tr>
-<tr>
-<td style="text-align: center;">12</td>
-<td style="text-align: center;">11-Nov</td>
-<td> </td>
-<td>Module 3: Discover the Art of Prompting</td>
-<td>NLP algorithms</td>
-<td> </td>
-</tr>
-<tr>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;">13-Nov</td>
-<td> </td>
-<td> </td>
-<td>NLP use cases</td>
-<td>Quiz 6</td>
-</tr>
-<tr>
-<td style="text-align: center;">13</td>
-<td style="text-align: center;">18-Nov</td>
-<td>M8: Implementation of AI</td>
-<td>Module 4: Use AI Responsibly</td>
-<td>Developing and deploying AI solutions</td>
-<td> </td>
-</tr>
-<tr>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;">20-Nov</td>
-<td> </td>
-<td>Module 4: Use AI Responsibly</td>
-<td>AI project management</td>
-<td> </td>
-</tr>
-<tr>
-<td style="text-align: center;">14</td>
-<td style="text-align: center;">25-Nov</td>
-<td> </td>
-<td>Module 5: Stay Ahead of the AI Curve</td>
-<td>AI governance</td>
-<td>Quiz 7</td>
-</tr>
-<tr>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;">27-Nov</td>
-<td colspan="4" style="text-align: center;"><strong>Thanksgiving Break,
-No Class</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;">15</td>
-<td style="text-align: center;">2-Dec</td>
-<td>M9: The Future of AI</td>
-<td>Module 5: Stay Ahead of the AI Curve</td>
-<td>Emerging trends in AI, The ethical implications of AI</td>
-<td> </td>
-</tr>
-<tr>
-<td style="text-align: center;"> </td>
-<td style="text-align: center;">4-Dec</td>
-<td colspan="3" style="text-align: center;"><strong>Showcase Day, All
-Students are expected to participate the Showcase</strong></td>
-<td>Quiz 8</td>
-</tr>
-</tbody>
-</table>
+| Week | Date   | Module                                                                 | Google AI Essentials<br>Certificate           | Topics                                                        | Notes                                                                   |
+|------|--------|------------------------------------------------------------------------|-----------------------------------------------|---------------------------------------------------------------|-------------------------------------------------------------------------|
+| 1    | 26-Aug | M1: AI Foundations                                                     |                                               | Introduction, What is AI?                                     |                                                                         |
+|      | 28-Aug |                                                                        |                                               | A brief history of AI, Different types of AI                  |                                                                         |
+| 2    | 2-Sep  |                                                                        |                                               | The potential of AI                                           |                                                                         |
+|      | 4-Sep  |                                                                        |                                               | The potential of AI                                           |                                                                         |
+| 3    | 9-Sep  | M2: Data                                                               |                                               | The importance of data in AI                                  |                                                                         |
+|      | 11-Sep |                                                                        |                                               | Different types of data                                       | Quiz 1                                                                  |
+| 4    | 16-Sep |                                                                        |                                               | Collecting and preparing data for AI                          |                                                                         |
+|      | 18-Sep |                                                                        |                                               | Data ethics and privacy                                       | Showcase Milestone 1: Showcase Project Selection (20 Minutes)           |
+| 5    | 23-Sep | M3: Machine Learning                                                   | Module 1: Introduction to AI                  | What is machine learning?                                     |                                                                         |
+|      | 25-Sep |                                                                        | Module 1: Introduction to AI                  | Different types of machine learning                           | Quiz 2                                                                  |
+| 6    | 30-Sep |                                                                        |                                               | Common machine learning algorithms                            |                                                                         |
+|      | 2-Oct  |                                                                        |                                               | Evaluating machine learning models                            |                                                                         |
+| 7    | 7-Oct  | M4: Deep Learning                                                      |                                               | What is deep learning?                                        |                                                                         |
+|      | 9-Oct  |                                                                        |                                               | Neural networks                                               | Showcase Milestone 2: Showcase Poster Preparation (20 Minutes)          |
+| 8    | 14-Oct | Fall Break, No<br>Class                                                |
+|      | 16-Oct |                                                                        |                                               | Convolutional neural networks, Recurrent neural networks      | Quiz 3                                                                  |
+| 9    | 21-Oct |                                                                        |                                               | Training and evaluating deep learning models                  |                                                                         |
+|      | 23-Oct | M5: Robotic Process Automation (RPA)                                   | Module 2: Maximize Productivity With AI Tools | What is RPA?, The benefits of RPA                             | Showcase Milestone 3: Upload your poster to Shared Drive                |
+| 10   | 28-Oct |                                                                        | Module 2: Maximize Productivity With AI Tools | How to implement RPA, RPA use cases                           | Showcase Milestone 4: Showcase Poster Checkpoint (20 Minutes)<br>Quiz 4 |
+|      | 30-Oct | M6: Physical Robots                                                    |                                               | What are physical robots?, Different types of physical robots |                                                                         |
+| 11   | 4-Nov  |                                                                        |                                               | Programming physical robots, Physical robot applications      | Quiz 5                                                                  |
+|      | 6-Nov  | M7: Natural Language Processing (NLP)                                  | Module 3: Discover the Art of Prompting       | What is NLP?, Common NLP tasks                                |                                                                         |
+| 12   | 11-Nov |                                                                        | Module 3: Discover the Art of Prompting       | NLP algorithms                                                |                                                                         |
+|      | 13-Nov |                                                                        |                                               | NLP use cases                                                 | Quiz 6                                                                  |
+| 13   | 18-Nov | M8: Implementation of AI                                               | Module 4: Use AI Responsibly                  | Developing and deploying AI solutions                         |                                                                         |
+|      | 20-Nov |                                                                        | Module 4: Use AI Responsibly                  | AI project management                                         |                                                                         |
+| 14   | 25-Nov |                                                                        | Module 5: Stay Ahead of the AI Curve          | AI governance                                                 | Quiz 7                                                                  |
+|      | 27-Nov | Thanksgiving Break,<br>No Class                                        |
+| 15   | 2-Dec  | M9: The Future of AI                                                   | Module 5: Stay Ahead of the AI Curve          | Emerging trends in AI, The ethical implications of AI         |                                                                         |
+|      | 4-Dec  | Showcase Day, All<br>Students are expected to participate the Showcase | Quiz 8                                        |
+
 
 ## CEHC Showcase
 
